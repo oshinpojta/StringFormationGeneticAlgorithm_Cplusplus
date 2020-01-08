@@ -11,5 +11,8 @@ Step 2 :: Next step is creating a few more population of childs actually with al
 
 Step 3 :: Now that the new generation is formed , they are now the parents generation and now similar process will be required. They also need to be evaluated and a while loop or goto statements as a loop can be added so that it should only stop when a goal is reached (when all the characters of the sentence are correctly added that will be the goal). I think thats all there is to it.
 
+Also SORRY for inefficient coding style , i would improve it later some day. I dont have much time and already have a lot of projects to complete this sem. If u have some better code then also send it to me , thank you.
+
+
 For more queries related to the program, contact me on facebook(Oshin Pojta) or gmail (sujanian785@gmail.com).
 Thank You!
